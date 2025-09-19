@@ -1,0 +1,12 @@
+name: TntBow
+version: '1.0'
+main: me.pepf.tntBow.TntBow
+api-version: '1.21'
+prefix: tnt-bow
+authors: [ Pepf ]
+description: A bow that shoots TNT-Arrows
+website: github.com/pepf0
+commands:
+  tntbow:
+    description: "Gives you the TNT Bow"
+    usage:  "/tntbow"
